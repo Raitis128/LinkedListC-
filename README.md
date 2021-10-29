@@ -1,15 +1,15 @@
-# LinkedListC-
-Here is LinkedList on C++
-Elementa pievienošana:
-• saraksta sākumā;
-• saraksta beigās;
-• pēc norādītā mezgla;
-• pirms norādītā mezgla.
-2. Elementa nodzēšana:
-• saraksta sākumā;
-• saraksta beigās;
-• pēc norādītā mezgla;
-• pirms norādītā mezgla.
-3. Saraksta izvadīšana.
-4. Saraksta elementu skaita noteikšana.
+# LinkedList<br>
+Here is LinkedList on C++ <br>
+1. Elementa pievienošana:<br>
+• saraksta sākumā;<br>
+• saraksta beigās;<br>
+• pēc norādītā mezgla;<br>
+• pirms norādītā mezgla.<br><br>
+2. Elementa nodzēšana:<br>
+• saraksta sākumā;<br>
+• saraksta beigās;<br>
+• pēc norādītā mezgla;<br>
+• pirms norādītā mezgla.<br><br>
+3. Saraksta izvadīšana.<br>
+4. Saraksta elementu skaita noteikšana.<br>
 5. Visa saraksta dzēšana.
